@@ -3,11 +3,16 @@
     <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F7C749&center=true&random=false&width=435&height=100&lines=~+%F0%9D%90%92%F0%9D%90%B0%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%9D+%F0%9D%90%83%F0%9D%90%9E%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%AB+%F0%9D%90%8E%F0%9D%90%A7%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%9E+~+" alt="Typing SVG" /></a></h1>
     </div>
     <br>
+    <h2>~ 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑴𝒆! ~</h2>
     <div align="center">
         <img width="200" height="170" src="assets/sandwitch.gif" align="right">
         <div align="left">
         <p>𝑳𝒊𝒇𝒆 𝒊𝒔𝒏’𝒕 𝒋𝒖𝒔𝒕 𝒅𝒐𝒊𝒏𝒈 𝒕𝒉𝒊𝒏𝒈𝒔 𝒇𝒐𝒓 𝒚𝒐𝒖𝒓𝒔𝒆𝒍𝒇.<p>
         <p>𝑰𝒕’𝒔 𝒑𝒐𝒔𝒔𝒊𝒃𝒍𝒆 𝒕𝒐 𝒍𝒊𝒗𝒆 𝒊𝒏 𝒔𝒖𝒄𝒉 𝒂 𝒘𝒂𝒚 𝒕𝒉𝒂𝒕 𝒐𝒕𝒉𝒆𝒓 𝒑𝒆𝒐𝒑𝒍𝒆’𝒔 𝒉𝒂𝒑𝒑𝒊𝒏𝒆𝒔𝒔,<p>
         <p>𝒎𝒂𝒌𝒆𝒔 𝒚𝒐𝒖 𝒉𝒂𝒑𝒑𝒚 𝒕𝒐𝒐.<p>
+        </div>
+        <div align="left">
+            <img alt="Static Badge" src="https://img.shields.io/badge/knight.of.asuna-black?logo=discord&logoColor=violet">
+            <img alt="Static Badge" src="https://img.shields.io/badge/My_Steam-black?logo=steam&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2FKnightOfAsuna%2F">
         </div>
     </div>
