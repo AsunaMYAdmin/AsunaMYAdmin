@@ -5,6 +5,7 @@
     <br>
     <h2 align="center">~ 𝑴𝒚 𝑲𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆 ~</h2>
     <div align="center">
+    <img width="200" height="100" src="assets/attack.gif" align="left">
     <div align="right">
         <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-orange?logo=openjdk&logoColor=black">
         <img alt="Static Badge" src="https://img.shields.io/badge/SPRING-orange?logo=spring&logoColor=green">
@@ -21,7 +22,6 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/SQL-purple?logo=mysql&logoColor=orange">
         <img alt="Static Badge" src="https://img.shields.io/badge/GIT-purple?logo=git">
     </div>
-    <img src="assets/attack.gif" align="left">
     </div>
     <br>
     <h2>~ 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑴𝒆! ~</h2>
