@@ -40,8 +40,7 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/LUA-purple?logo=LUA&logoColor=white">
         <img alt="Static Badge" src="https://img.shields.io/badge/SQL-purple?logo=mysql&logoColor=orange">
         <img alt="Static Badge" src="https://img.shields.io/badge/GIT-purple?logo=git">
-        <p>*𝘈𝘭𝘴𝘰, 𝘐 𝘩𝘢𝘷𝘦 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 𝘪𝘯 𝘮𝘢𝘯𝘢𝘨𝘦𝘮𝘦𝘯𝘵</p>
-        <p>𝘢𝘯𝘥 𝘭𝘰𝘷𝘦 𝘮𝘢𝘵𝘩𝘦𝘮𝘢𝘵𝘪𝘤𝘴 𝘢𝘯𝘥 𝘱𝘩𝘺𝘴𝘪𝘤𝘴 :3</p>
+        <p>*𝘈𝘭𝘴𝘰, 𝘐 𝘩𝘢𝘷𝘦 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 𝘪𝘯 𝘮𝘢𝘯𝘢𝘨𝘦𝘮𝘦𝘯𝘵 <br>𝘢𝘯𝘥 𝘭𝘰𝘷𝘦 𝘮𝘢𝘵𝘩𝘦𝘮𝘢𝘵𝘪𝘤𝘴 𝘢𝘯𝘥 𝘱𝘩𝘺𝘴𝘪𝘤𝘴 :3</p>
     </div>
     </div>
     <br>
