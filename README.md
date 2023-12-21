@@ -3,7 +3,23 @@
     <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F7C749&center=true&random=false&width=435&height=100&lines=~+%F0%9D%90%92%F0%9D%90%B0%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%9D+%F0%9D%90%83%F0%9D%90%9E%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%AB+%F0%9D%90%8E%F0%9D%90%A7%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%9E+~+" alt="Typing SVG" /></a></h1>
     </div>
     <br>
-    <h2 align="center">~ 𝑴𝒚 𝑲𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆 ~</h2>
+    <div align="center">
+        <h2 align="center">~ 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ~</h2>
+        <div align="right">
+            <p>𝘏𝘦𝘭𝘭𝘰! ✨ 𝘛𝘩𝘢𝘯𝘬 𝘺𝘰𝘶 𝘧𝘰𝘳 𝘷𝘪𝘴𝘪𝘵𝘪𝘯𝘨 𝘵𝘩𝘪𝘴 𝘱𝘢𝘨𝘦. 𝘐 𝘢𝘮 𝘢 𝘺𝘰𝘶𝘯𝘨 𝘑𝘢𝘷𝘢 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘧𝘳𝘰𝘮 𝘙𝘶𝘴𝘴𝘪𝘢 💻. 𝘐 𝘢𝘮 𝘱𝘭𝘢𝘯𝘯𝘪𝘯𝘨 𝘵𝘰 𝘮𝘰𝘷𝘦 𝘵𝘰 𝘑𝘢𝘱𝘢𝘯 𝘪𝘯 𝘵𝘩𝘦 𝘯𝘦𝘹𝘵 𝘺𝘦𝘢𝘳 🌏. 𝘐 𝘭𝘰𝘷𝘦 𝘢𝘯𝘪𝘮𝘦, 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨 𝘢𝘯𝘥 𝘴𝘤𝘪𝘦𝘯𝘤𝘦 🔭</p>
+        </div>
+        <div align="left">
+        <ul style="list-style-type: none;">
+            <li><img alt="Static Badge" src="https://img.shields.io/badge/PROFILE-JAVA%20_DEVELOPER-orange?style=for-the-badge&logo=openjdk&logoColor=white"></li>
+            <li><img alt="Static Badge" src="https://img.shields.io/badge/NICKNAME-AsunaMYAdmin-orange?style=for-the-badge&logo=ameba"></li>
+            <li><img alt="Static Badge" src="https://img.shields.io/badge/LOVES-ASUNA%2C_SCIENCE%2C_IT%2C_ANIME-orange?style=for-the-badge&logo=porsche&logoColor=white"></li>
+            <li><img alt="Static Badge" src="https://img.shields.io/badge/HOBBIES-WEB%2C_MINECRAFT%2C_DESKTOP_DEV-orange?style=for-the-badge&logo=intellijidea&logoColor=white"></li>
+            <li><img alt="Static Badge" src="https://img.shields.io/badge/LANGUAGES-ENGLISH%2C_RUSSIAN%2C_JAPANESE-orange?style=for-the-badge&logo=alipay&logoColor=white"></li>
+        </ul>
+        </div>
+        <img src="assets/kawai.gif" align="center">
+    </div>
+    <h2 align="center">~ 𝑴𝒚 𝑲𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆𝒔 ~</h2>
     <div align="center">
     <img width="250" height="125" src="assets/attack.gif" align="left">
     <div align="right">
