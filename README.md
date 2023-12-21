@@ -3,6 +3,27 @@
     <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F7C749&center=true&random=false&width=435&height=100&lines=~+%F0%9D%90%92%F0%9D%90%B0%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%9D+%F0%9D%90%83%F0%9D%90%9E%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%AB+%F0%9D%90%8E%F0%9D%90%A7%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%9E+~+" alt="Typing SVG" /></a></h1>
     </div>
     <br>
+    <h2 align="center">~ 𝑴𝒚 𝑲𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆 ~</h2>
+    <div align="center">
+    <div align="right">
+        <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-orange?logo=openjdk&logoColor=black">
+        <img alt="Static Badge" src="https://img.shields.io/badge/SPRING-orange?logo=spring&logoColor=green">
+        <img alt="Static Badge" src="https://img.shields.io/badge/SPRINGBOOT-orange?logo=springboot&logoColor=green">
+        <img alt="Static Badge" src="https://img.shields.io/badge/HIBERNATE-orange?logo=hibernate">
+    </div>
+    <div align="right">
+        <img alt="Static Badge" src="https://img.shields.io/badge/HTML-blue?logo=html5">
+        <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?logo=css3">
+        <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-blue?logo=javascript">
+    </div>
+    <div align="right">
+        <img alt="Static Badge" src="https://img.shields.io/badge/LUA-purple?logo=LUA&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/SQL-purple?logo=mysql&logoColor=orange">
+        <img alt="Static Badge" src="https://img.shields.io/badge/GIT-purple?logo=git">
+    </div>
+    <img src="assets/attack.gif" align="left">
+    </div>
+    <br>
     <h2>~ 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑴𝒆! ~</h2>
     <div align="center">
         <img width="160" height="140" src="assets/sandwitch.gif" align="right">
