@@ -27,7 +27,7 @@
     </div>
     </div>
     <br>
-    <h2>~ 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑴𝒆! ~</h2>
+    <h2 align="center">~ 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑴𝒆! ~</h2>
     <div align="center">
         <img width="160" height="140" src="assets/sandwitch.gif" align="right">
         <div align="left">
