@@ -12,8 +12,10 @@
             <img alt="Static Badge" src="https://img.shields.io/badge/PROFILE-JAVA%20_DEVELOPER-orange?style=for-the-badge&logo=openjdk&logoColor=white">
             <img alt="Static Badge" src="https://img.shields.io/badge/NICKNAME-AsunaMYAdmin-orange?style=for-the-badge&logo=ameba">
             <img alt="Static Badge" src="https://img.shields.io/badge/LOVES-ASUNA%2C_SCIENCE%2C_IT%2C_ANIME-orange?style=for-the-badge&logo=porsche&logoColor=white">
+            <div align="center">
             <img alt="Static Badge" src="https://img.shields.io/badge/HOBBIES-WEB%2C_MINECRAFT%2C_DESKTOP_DEV-orange?style=for-the-badge&logo=intellijidea&logoColor=white">
             <img alt="Static Badge" src="https://img.shields.io/badge/LANGUAGES-ENGLISH%2C_RUSSIAN%2C_JAPANESE-orange?style=for-the-badge&logo=alipay&logoColor=white">
+            </div>
         </div>
         <img src="assets/kawai.gif" align="center">
     </div>
