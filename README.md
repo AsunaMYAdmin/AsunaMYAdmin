@@ -5,19 +5,22 @@
     <br>
     <h2 align="center">~ 𝑴𝒚 𝑲𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆 ~</h2>
     <div align="center">
-    <img width="200" height="100" src="assets/attack.gif" align="left">
+    <img width="300" height="150" src="assets/attack.gif" align="left">
     <div align="right">
+    <em>I always strive for the top</em>
         <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-orange?logo=openjdk&logoColor=black">
         <img alt="Static Badge" src="https://img.shields.io/badge/SPRING-orange?logo=spring&logoColor=green">
         <img alt="Static Badge" src="https://img.shields.io/badge/SPRINGBOOT-orange?logo=springboot&logoColor=green">
         <img alt="Static Badge" src="https://img.shields.io/badge/HIBERNATE-orange?logo=hibernate">
     </div>
     <div align="right">
+    <em>I'm growing and looking for answers</em>
         <img alt="Static Badge" src="https://img.shields.io/badge/HTML-blue?logo=html5">
         <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?logo=css3">
         <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-blue?logo=javascript">
     </div>
     <div align="right">
+    <em>I love what I do</em>
         <img alt="Static Badge" src="https://img.shields.io/badge/LUA-purple?logo=LUA&logoColor=white">
         <img alt="Static Badge" src="https://img.shields.io/badge/SQL-purple?logo=mysql&logoColor=orange">
         <img alt="Static Badge" src="https://img.shields.io/badge/GIT-purple?logo=git">
