@@ -5,7 +5,7 @@
     <br>
     <h2 align="center">~ 𝑴𝒚 𝑲𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆 ~</h2>
     <div align="center">
-    <img width="300" height="150" src="assets/attack.gif" align="left">
+    <img width="250" height="125" src="assets/attack.gif" align="left">
     <div align="right">
     <em>I always strive for the top</em>
         <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-orange?logo=openjdk&logoColor=black">
