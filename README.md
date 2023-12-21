@@ -5,14 +5,14 @@
     <br>
     <h2>~ 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑴𝒆! ~</h2>
     <div align="center">
-        <img width="200" height="170" src="assets/sandwitch.gif" align="right">
+        <img width="170" height="140" src="assets/sandwitch.gif" align="right">
         <div align="left">
         <p>𝑳𝒊𝒇𝒆 𝒊𝒔𝒏’𝒕 𝒋𝒖𝒔𝒕 𝒅𝒐𝒊𝒏𝒈 𝒕𝒉𝒊𝒏𝒈𝒔 𝒇𝒐𝒓 𝒚𝒐𝒖𝒓𝒔𝒆𝒍𝒇.<p>
         <p>𝑰𝒕’𝒔 𝒑𝒐𝒔𝒔𝒊𝒃𝒍𝒆 𝒕𝒐 𝒍𝒊𝒗𝒆 𝒊𝒏 𝒔𝒖𝒄𝒉 𝒂 𝒘𝒂𝒚 𝒕𝒉𝒂𝒕 𝒐𝒕𝒉𝒆𝒓 𝒑𝒆𝒐𝒑𝒍𝒆’𝒔 𝒉𝒂𝒑𝒑𝒊𝒏𝒆𝒔𝒔,<p>
         <p>𝒎𝒂𝒌𝒆𝒔 𝒚𝒐𝒖 𝒉𝒂𝒑𝒑𝒚 𝒕𝒐𝒐.<p>
         </div>
         <div align="left">
-            <img alt="Static Badge" src="https://img.shields.io/badge/knight.of.asuna-black?logo=discord&logoColor=violet">
-            <img alt="Static Badge" src="https://img.shields.io/badge/My_Steam-black?logo=steam&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2FKnightOfAsuna%2F">
+            <img alt="Static Badge" src="https://img.shields.io/badge/My_Discord-knight.of.asuna-orange?logo=discord&logoColor=violet&labelColor=blue&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2FKnightOfAsuna%2F">
+            <img alt="Static Badge" src="https://img.shields.io/badge/My_Steam-orange?logo=steam&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2FKnightOfAsuna%2F">
         </div>
     </div>
