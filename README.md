@@ -6,7 +6,7 @@
     <div align="center">
         <h2 align="center">~ 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ~</h2>
         <div align="right">
-            <p>𝘏𝘦𝘭𝘭𝘰! ✨ 𝘛𝘩𝘢𝘯𝘬 𝘺𝘰𝘶 𝘧𝘰𝘳 𝘷𝘪𝘴𝘪𝘵𝘪𝘯𝘨 𝘵𝘩𝘪𝘴 𝘱𝘢𝘨𝘦. 𝘐 𝘢𝘮 𝘢 𝘺𝘰𝘶𝘯𝘨 𝘑𝘢𝘷𝘢 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘧𝘳𝘰𝘮 𝘙𝘶𝘴𝘴𝘪𝘢 💻. 𝘐 𝘢𝘮 𝘱𝘭𝘢𝘯𝘯𝘪𝘯𝘨 𝘵𝘰 𝘮𝘰𝘷𝘦 𝘵𝘰 𝘑𝘢𝘱𝘢𝘯 𝘪𝘯 𝘵𝘩𝘦 𝘯𝘦𝘹𝘵 𝘺𝘦𝘢𝘳 🌏. 𝘐 𝘭𝘰𝘷𝘦 𝘢𝘯𝘪𝘮𝘦, 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨 𝘢𝘯𝘥 𝘴𝘤𝘪𝘦𝘯𝘤𝘦 🔭</p>
+            <p align="center">𝘏𝘦𝘭𝘭𝘰! ✨ 𝘛𝘩𝘢𝘯𝘬 𝘺𝘰𝘶 𝘧𝘰𝘳 𝘷𝘪𝘴𝘪𝘵𝘪𝘯𝘨 𝘵𝘩𝘪𝘴 𝘱𝘢𝘨𝘦. 𝘐 𝘢𝘮 𝘢 𝘺𝘰𝘶𝘯𝘨 𝘑𝘢𝘷𝘢 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘧𝘳𝘰𝘮 𝘙𝘶𝘴𝘴𝘪𝘢 💻. 𝘐 𝘢𝘮 𝘱𝘭𝘢𝘯𝘯𝘪𝘯𝘨 𝘵𝘰 𝘮𝘰𝘷𝘦 𝘵𝘰 𝘑𝘢𝘱𝘢𝘯 𝘪𝘯 𝘵𝘩𝘦 𝘯𝘦𝘹𝘵 𝘺𝘦𝘢𝘳 🌏. 𝘐 𝘭𝘰𝘷𝘦 𝘢𝘯𝘪𝘮𝘦, 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨 𝘢𝘯𝘥 𝘴𝘤𝘪𝘦𝘯𝘤𝘦 🔭</p>
         </div>
         <div align="left">
             <img alt="Static Badge" src="https://img.shields.io/badge/PROFILE-JAVA%20_DEVELOPER-orange?style=for-the-badge&logo=openjdk&logoColor=white">
