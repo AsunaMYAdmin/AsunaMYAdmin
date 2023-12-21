@@ -5,7 +5,7 @@
     <br>
     <h2>~ 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑴𝒆! ~</h2>
     <div align="center">
-        <img width="170" height="150" src="assets/sandwitch.gif" align="right">
+        <img width="160" height="140" src="assets/sandwitch.gif" align="right">
         <div align="left">
         <p>𝑳𝒊𝒇𝒆 𝒊𝒔𝒏’𝒕 𝒋𝒖𝒔𝒕 𝒅𝒐𝒊𝒏𝒈 𝒕𝒉𝒊𝒏𝒈𝒔 𝒇𝒐𝒓 𝒚𝒐𝒖𝒓𝒔𝒆𝒍𝒇.<p>
         <p>𝑰𝒕’𝒔 𝒑𝒐𝒔𝒔𝒊𝒃𝒍𝒆 𝒕𝒐 𝒍𝒊𝒗𝒆 𝒊𝒏 𝒔𝒖𝒄𝒉 𝒂 𝒘𝒂𝒚 𝒕𝒉𝒂𝒕 𝒐𝒕𝒉𝒆𝒓 𝒑𝒆𝒐𝒑𝒍𝒆’𝒔 𝒉𝒂𝒑𝒑𝒊𝒏𝒆𝒔𝒔,<p>
