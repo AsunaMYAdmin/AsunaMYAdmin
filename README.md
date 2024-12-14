@@ -6,7 +6,7 @@
     <div align="center">
         <h2 align="center">~ 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ~</h2>
         <div align="right">
-            <p align="center"></p>
+            <p align="center">𝙷𝚎𝚕𝚕𝚘! 𝙸 𝚊𝚖 𝚊 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝚁𝚞𝚜𝚜𝚒𝚊. 𝙸 𝚕𝚘𝚟𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚒𝚗𝚐 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜. 𝙰𝚗𝚍 𝚜𝚘𝚖𝚎𝚝𝚒𝚖𝚎𝚜 𝚜𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚒𝚗 𝙹𝚊𝚟𝚊. 𝙸 𝚕𝚘𝚟𝚎 𝚜𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝚠𝚒𝚕𝚕 𝚜𝚘𝚘𝚗 𝚖𝚘𝚟𝚎 𝚝𝚘 𝙹𝚊𝚙𝚊𝚗 :𝟹</p>
         </div>
         <div align="left">
             <img alt="Static Badge" src="https://img.shields.io/badge/PROFILE-ANDROID%20_DEVELOPER-orange?style=for-the-badge&logo=android&logoColor=white">
